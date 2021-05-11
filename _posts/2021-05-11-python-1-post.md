@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[210511] 파이썬 1대1 초보만@@@"
-date:   2021-05-03
+date:   2021-05-11
 excerpt: "Hello World"
 tag:
 - python
